@@ -1,0 +1,12 @@
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\bin\Debug\net6.0\DYNAMIC_BOX_Shared.deps.json
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\bin\Debug\net6.0\DYNAMIC_BOX_Shared.dll
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\bin\Debug\net6.0\DYNAMIC_BOX_Shared.pdb
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\DYNAMIC_BOX_Shared.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\DYNAMIC_BOX_Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\DYNAMIC_BOX_Shared.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\DYNAMIC_BOX_Shared.AssemblyInfo.cs
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\DYNAMIC_BOX_Shared.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\DYNAMIC_BOX_Shared.dll
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\refint\DYNAMIC_BOX_Shared.dll
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\DYNAMIC_BOX_Shared.pdb
+C:\Users\Windows\source\repos\DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_Shared\obj\Debug\net6.0\ref\DYNAMIC_BOX_Shared.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DYNAMIC_BOX_WebAPI", "DYNAMIC_BOX_WebAPI\DYNAMIC_BOX_WebAPI.csproj", "{C6D3BEA5-8476-4DBF-B550-60EB3986B648}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DYNAMIC_BOX_Shared", "DYNAMIC_BOX_Shared\DYNAMIC_BOX_Shared.csproj", "{C075B861-F0E2-467D-95BD-3233E3BCE357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D3BEA5-8476-4DBF-B550-60EB3986B648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D3BEA5-8476-4DBF-B550-60EB3986B648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D3BEA5-8476-4DBF-B550-60EB3986B648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D3BEA5-8476-4DBF-B550-60EB3986B648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C075B861-F0E2-467D-95BD-3233E3BCE357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C075B861-F0E2-467D-95BD-3233E3BCE357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C075B861-F0E2-467D-95BD-3233E3BCE357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C075B861-F0E2-467D-95BD-3233E3BCE357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {792D28B6-F064-47EA-BB20-A642D127BF65}
+	EndGlobalSection
+EndGlobal
